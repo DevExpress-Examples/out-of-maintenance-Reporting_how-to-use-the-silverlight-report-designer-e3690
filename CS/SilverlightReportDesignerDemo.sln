@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightReportDesignerDemo.Web", "SilverlightReportDesignerDemo.Web\SilverlightReportDesignerDemo.Web.csproj", "{466DF224-8C28-4F54-A93F-A00A9AA2C56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightReportDesignerDemo", "SilverlightReportDesignerDemo\SilverlightReportDesignerDemo.csproj", "{3340FBA3-A059-4C6C-BEB5-1CC4253D4EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3340FBA3-A059-4C6C-BEB5-1CC4253D4EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3340FBA3-A059-4C6C-BEB5-1CC4253D4EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3340FBA3-A059-4C6C-BEB5-1CC4253D4EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3340FBA3-A059-4C6C-BEB5-1CC4253D4EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466DF224-8C28-4F54-A93F-A00A9AA2C56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466DF224-8C28-4F54-A93F-A00A9AA2C56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466DF224-8C28-4F54-A93F-A00A9AA2C56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466DF224-8C28-4F54-A93F-A00A9AA2C56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
