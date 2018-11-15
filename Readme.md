@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportService1.svc.cs](./CS/SilverlightReportDesignerDemo.Web/ReportService1.svc.cs) (VB: [ReportService1.svc.vb](./VB/SilverlightReportDesignerDemo.Web/ReportService1.svc.vb))
+* **[MainPage.xaml](./CS/SilverlightReportDesignerDemo/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightReportDesignerDemo/MainPage.xaml))**
+* [MainPage.xaml.cs](./CS/SilverlightReportDesignerDemo/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightReportDesignerDemo/MainPage.xaml))
+<!-- default file list end -->
 # How to use the Silverlight report designer
 
 
