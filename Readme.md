@@ -6,6 +6,9 @@
 * **[MainPage.xaml.cs](./CS/SilverlightReportDesignerDemo/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightReportDesignerDemo/MainPage.xaml.vb))**
 <!-- default file list end -->
 # How to use the Silverlight report designer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3690)**
+<!-- run online end -->
 
 
 <p>This example illustrates how you can create and configure a Report Designer for Silverlight.</p><p>See also:<br />
